@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Advanced Topics in Engineering Physics
 
-Repository for "Template".
+Repository for "Advanced Topics in Engineering Physics".
 
 
 ## Use instructions
